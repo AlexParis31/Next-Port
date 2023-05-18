@@ -11,7 +11,7 @@ const contact = () => {
                 <h1 class="font-heading text-5xl xs:text-6xl font-bold text-gray-900 ">
                     <span>CONTACT ME</span>
                 </h1>
-                <p class="text-lg text-gray-500 font-semibold mt-5 mb-20"> Please don't hesitate to reach out through any of the contacts listed below. I'm more than happy to answer your questions, and discuss any potential opportunities. </p>
+                <p class="text-lg text-gray-500 font-semibold mt-5 mb-20"> Please do not hesitate to reach out through any of the contacts listed below. I am more than happy to answer your questions, and discuss any potential opportunities. </p>
                 </div>
 
                 <div class="flex flex-wrap justify-center -mx-4">

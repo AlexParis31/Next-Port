@@ -121,7 +121,7 @@ const Skills = () => {
         <p class="text-lg text-gray-500 font-semibold mt-10 mb-10"> You can find more of my coding skills on my resume at the following link: </p>
         <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-4 px-4 rounded'>
         <a href="https://docs.google.com/document/d/1U3n4RzfGv_trqsryxOv0YCBIn4yWzHqepFt7sPb8aXs/edit" target="_blank"> 
-            Alex's Resume
+            Resume
             </a>
         </button>
         </div>

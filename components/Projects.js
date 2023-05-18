@@ -15,7 +15,7 @@ const Projects = () => {
 
                 <p className='font-heading text-center text-5xl xs:text-6xl font-bold text-gray-900 mt-20 '>MY PROJECTS </p>
 
-                <p class="text-lg text-gray-500 text-center font-semibold mt-5 ">Here are some of the main projects I have worked on lately, but there's more in the works..  </p>
+                <p class="text-lg text-gray-500 text-center font-semibold mt-5 ">Here are some of the main projects I have worked on lately, but there is more in the works..  </p>
                 <p class="text-lg text-gray-500 text-center font-semibold mt-2 mb-7">Check out the rest of my work on my github account linked below </p>
 
                 <div className='grid md:grid-cols-2 gap-8 my-10'>
