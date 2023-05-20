@@ -1,7 +1,5 @@
 import Image from 'next/image';
 import React from 'react';
-import Link from 'next/link';
-// import useDownloader from "react-use-downloader";
 import Html from '../public/assets/skills/Html.png';
 import Css from '../public/assets/skills/Css.png';
 import Reactt from '../public/assets/skills/React.png';

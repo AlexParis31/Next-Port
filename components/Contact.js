@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Hero from '../components/Hero'
 
 const contact = () => {
     return (
