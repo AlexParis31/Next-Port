@@ -23,7 +23,7 @@ const Projects = () => {
                     title='Tv Shows App'
                     backgroundImg={tvshowImg}
                     projectUrl='/property'
-                    tech='React JS'
+                    tech='Application for users to archive TV shows they’ve seen'
                     />
                     <ProjectItem
                     title='Cars Catalogue'
@@ -35,8 +35,9 @@ const Projects = () => {
                     <ProjectItem
                     title='Personal Budgetting'
                     backgroundImg={transImg}
+                    frameworks="PostgreSQL / Express / React.js / Node.js"
                     projectUrl='/netflix'
-                    tech='React JS'
+                    tech='Application that allows each user to create lists of personal expenses and budgets'
         
                     />
                    
