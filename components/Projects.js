@@ -22,14 +22,16 @@ const Projects = () => {
                     <ProjectItem
                     title='Tv Shows App'
                     backgroundImg={tvshowImg}
+                    frameworks="Express / React.js / Node / Jquery "
                     projectUrl='/property'
                     tech='Application for users to archive TV shows they’ve seen'
                     />
                     <ProjectItem
                     title='Cars Catalogue'
                     backgroundImg={carImg}
+                    frameworks="MongoDB / Express / React.js / Node.js"
                     projectUrl='/crypto'
-                    tech='React JS'
+                    tech='Application that allows users to list cars based on customizable categories'
         
                     />
                     <ProjectItem
