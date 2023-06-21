@@ -21,6 +21,7 @@ const ProjectItem = ({title, backgroundImg, tech, projectUrl, frameworks, github
             <div className='flex justify-center'>
             <Link href={githubUrl} target="_blank">
                 <Image src={Github} width='64px' height='64px' alt='/'  />
+                <Image src={Github} width='64px' height='64px' alt='/'  />
             </Link>
             </div>
         </div>
