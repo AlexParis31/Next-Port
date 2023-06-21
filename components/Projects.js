@@ -4,6 +4,7 @@ import carImg from '../public/assets/projects/Screenshot 2023-05-11 at 5.38.16 P
 import transImg from '../public/assets/projects/Screenshot 2023-05-12 at 11.09.53 AM.png';
 import ProjectItem from './ProjectItem';
 
+
 const Projects = () => {
 
     return ( 
@@ -22,24 +23,27 @@ const Projects = () => {
                     <ProjectItem
                     title='Tv Shows App'
                     backgroundImg={tvshowImg}
-                    frameworks="Express / React.js / Node / Jquery "
+                    frameworks="Express / MongoDB / Node / Jquery "
                     projectUrl='/property'
-                    tech='Application for users to archive TV shows they’ve seen'
+                    githubUrl='https://github.com/AlexParis31/Full-Stack-Application'
+                    tech='An application for users to archive TV shows they’ve seen'
                     />
                     <ProjectItem
                     title='Cars Catalogue'
                     backgroundImg={carImg}
                     frameworks="MongoDB / Express / React.js / Node.js"
                     projectUrl='/crypto'
-                    tech='Application that allows users to list cars based on customizable categories'
+                    githubUrl='https://github.com/AlexParis31/front_end_pthree'
+                    tech='An application for users to list cars based on customizable categories'
         
                     />
                     <ProjectItem
-                    title='Personal Budgetting'
+                    title='Per(n)sonal Budgetting'
                     backgroundImg={transImg}
                     frameworks="PostgreSQL / Express / React.js / Node.js"
                     projectUrl='/netflix'
-                    tech='Application that allows each user to create lists of personal expenses and budgets'
+                    githubUrl='https://github.com/AlexParis31/Capstone-Front'
+                    tech='An application for users to create lists of personal expenses and budgets'
         
                     />
                    
