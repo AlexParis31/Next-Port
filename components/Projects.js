@@ -26,7 +26,8 @@ const Projects = () => {
                     frameworks="Express / MongoDB / Node / Jquery "
                     projectUrl='/property'
                     githubUrl='https://github.com/AlexParis31/Full-Stack-Application'
-                    tech='An application for users to archive TV shows they’ve seen'
+                    herokuUrl='https://tvshowcatalogue-bd11ccdd362a.herokuapp.com/'
+                    tech="Archive TV shows you've seen and rank them based on your personal rating"
                     />
                     <ProjectItem
                     title='Cars Catalogue'
@@ -34,7 +35,8 @@ const Projects = () => {
                     frameworks="MongoDB / Express / React.js / Node.js"
                     projectUrl='/crypto'
                     githubUrl='https://github.com/AlexParis31/front_end_pthree'
-                    tech='An application for users to list cars based on customizable categories'
+                    herokuUrl=''
+                    tech='Create a list of your dream cars and divide them by category'
         
                     />
                     <ProjectItem
@@ -43,7 +45,8 @@ const Projects = () => {
                     frameworks="PostgreSQL / Express / React.js / Node.js"
                     projectUrl='/netflix'
                     githubUrl='https://github.com/AlexParis31/Capstone-Front'
-                    tech='An application for users to create lists of personal expenses and budgets'
+                    herokuUrl='https://pernsonalbudgetting.herokuapp.com/'
+                    tech='Keep track of your past transactions, check your amount of remaining funds, and create budgets for future spending'
         
                     />
                    

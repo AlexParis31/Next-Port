@@ -2,8 +2,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
 import Github from '../public/assets/skills/Github.png';
+import Links from '../public/assets/skills/Link.png';
 
-const ProjectItem = ({title, backgroundImg, tech, projectUrl, frameworks, githubUrl}) => {
+const ProjectItem = ({title, backgroundImg, tech, projectUrl, frameworks, githubUrl, herokuUrl}) => {
   return (
     <div className='relative flex items-center justify-center h-auto w-full shadow-xl shadow-gray-400 rounded-xl group hover:bg-gradient-to-r from-[#5651e5] to-[#709dff]'>
 
@@ -19,9 +20,11 @@ const ProjectItem = ({title, backgroundImg, tech, projectUrl, frameworks, github
             
             <p className='pb-4 pt-2 text-white text-center my-4'>{tech}</p>
             <div className='flex justify-center'>
-            <Link href={githubUrl} target="_blank">
+            <Link href={githubUrl} target="_blank" className='mr-5'>
                 <Image src={Github} width='64px' height='64px' alt='/'  />
-                <Image src={Github} width='64px' height='64px' alt='/'  />
+            </Link>
+            <Link href={herokuUrl} target="_blank">
+              <Image src={Links} width='64px' height='64px' alt='/'  />
             </Link>
             </div>
         </div>
