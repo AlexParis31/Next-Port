@@ -24,7 +24,6 @@ const Projects = () => {
                     title='Tv Shows App'
                     backgroundImg={tvshowImg}
                     frameworks="Express / MongoDB / Node / Jquery "
-                    projectUrl='/property'
                     githubUrl='https://github.com/AlexParis31/Full-Stack-Application'
                     herokuUrl='https://tvshowcatalogue-bd11ccdd362a.herokuapp.com/'
                     tech="Archive TV shows you've seen and rank them based on your personal rating"
@@ -33,7 +32,6 @@ const Projects = () => {
                     title='Cars Catalogue'
                     backgroundImg={carImg}
                     frameworks="MongoDB / Express / React.js / Node.js"
-                    projectUrl='/crypto'
                     githubUrl='https://github.com/AlexParis31/front_end_pthree'
                     herokuUrl=''
                     tech='Create a list of your dream cars and divide them by category'
@@ -43,7 +41,6 @@ const Projects = () => {
                     title='Per(n)sonal Budgetting'
                     backgroundImg={transImg}
                     frameworks="PostgreSQL / Express / React.js / Node.js"
-                    projectUrl='/netflix'
                     githubUrl='https://github.com/AlexParis31/Capstone-Front'
                     herokuUrl='https://pernsonalbudgetting.herokuapp.com/'
                     tech='Keep track of your past transactions, check your amount of remaining funds, and create budgets for future spending'
