@@ -28,7 +28,7 @@ const Navbar = () => {
 
     return (
     <div style={{backgroundColor: `${color}`}} className='fixed left-0 top-0 w-full z-20 ease-in duration-300'>
-        <div className='max-w-[1240px] m-auto flex justify-left sm:justify-center items-center p-4 text-white'>
+        <div className='max-w-[1240px] m-auto flex justify-left sm:justify-center items-center p-4 text-white' >
 
             <ul style={{color: `${textColor}`}} className='hidden sm:flex'>
                 <li className='p-4 text-2xl'>

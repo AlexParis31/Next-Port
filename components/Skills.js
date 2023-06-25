@@ -10,8 +10,6 @@ import PostgreSQL from '../public/assets/skills/PostgreSQL.png';
 import Github from '../public/assets/skills/Github.png';
 
 
-
-
 const Skills = () => {
 
   return (

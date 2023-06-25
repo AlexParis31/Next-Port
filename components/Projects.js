@@ -28,6 +28,7 @@ const Projects = () => {
                     herokuUrl='https://tvshowcatalogue-bd11ccdd362a.herokuapp.com/'
                     tech="Archive TV shows you've seen and rank them based on your personal rating"
                     />
+
                     <ProjectItem
                     title='Cars Catalogue'
                     backgroundImg={carImg}
@@ -35,8 +36,8 @@ const Projects = () => {
                     githubUrl='https://github.com/AlexParis31/front_end_pthree'
                     herokuUrl=''
                     tech='Create a list of your dream cars and divide them by category'
-        
                     />
+
                     <ProjectItem
                     title='Per(n)sonal Budgetting'
                     backgroundImg={transImg}

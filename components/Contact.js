@@ -15,6 +15,7 @@ const contact = () => {
 
                 <div class="flex flex-wrap justify-center -mx-4">
 
+
                     <div class="w-full md:w-1/2 lg:w-auto px-4 xl:px-10 mb-10 md:mb-10">
                         <div class="max-w-sm mx-auto h-full py-8 px-6 bg-white border border-gray-200 rounded-5xl">
                         <div class="max-w-2xs mx-auto text-center">

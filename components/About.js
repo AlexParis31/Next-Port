@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const Aboutt = () => {
     return (
     <div id="about"> 
