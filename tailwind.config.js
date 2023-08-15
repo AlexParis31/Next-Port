@@ -13,6 +13,8 @@ module.exports = {
         SpaceMono: ["Space Mono", ...defaultTheme.fontFamily.sans],
         LilitaOne: ['Lilita One', ...defaultTheme.fontFamily.sans],
         Montaga: ['Montaga', ...defaultTheme.fontFamily.sans],
+        Gabriela: ['Gabriela', ...defaultTheme.fontFamily.sans],
+        AbrilFatface: ['Abril Fatface', ...defaultTheme.fontFamily.sans],
       }
     },
   },

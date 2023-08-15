@@ -22,6 +22,8 @@ export default function Document() {
           rel="stylesheet"
           />
           <link href="https://fonts.googleapis.com/css2?family=Montaga&display=swap" rel="stylesheet"/>
+          <link href="https://fonts.googleapis.com/css2?family=Gabriela&display=swap" rel="stylesheet"/>
+          <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet"/>
          
           
 

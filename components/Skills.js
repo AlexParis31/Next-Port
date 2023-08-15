@@ -14,13 +14,13 @@ const Skills = () => {
 
   return (
     <>
-    <div id='skills' className='mb-20'></div>
+    <div id='skills' ></div>
     <div className='p-2 bg-center bg-cover customThree-img '>
       
       <div  className='max-w-[1240px] mx-auto flex flex-col justify-center '>
 
       
-        <p className='font-heading text-center text-5xl xs:text-6xl font-bold text-gray-900 mt-20 mb-20'> MY SKILLS </p>
+        <p className='font-heading text-center text-5xl xs:text-6xl font-bold text-gray-900 mt-40 mb-20'> MY SKILLS </p>
 
         <div className='grid grid-cols-2 lg:grid-cols-4 gap-8 '>
 
