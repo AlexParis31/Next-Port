@@ -16,8 +16,8 @@ const Navbar = () => {
     useEffect(()=> {
         const changeColor = () => {
             if(window.scrollY >= 90) {
-                setColor('#e0ecfc')
-                setTextColor('#000000')
+                setColor('#93b8e9')
+                setTextColor('#ffffff')
             } else {
                 setColor('transparent')
                 setTextColor('#ffffff')
@@ -31,19 +31,19 @@ const Navbar = () => {
         <div className='max-w-[1240px] m-auto flex justify-left sm:justify-center items-center p-4 text-white' >
 
             <ul style={{color: `${textColor}`}} className='hidden sm:flex'>
-                <li className='p-4 text-2xl'>
+                <li className='font-Montserrat p-4 text-2xl'>
                     <Link href='/'>Home</Link>
                 </li>
-                <li className='p-4 text-2xl'>
+                <li className='font-Montserrat p-4 text-2xl'>
                     <Link href='/#about'>About</Link>
                 </li>
-                <li className='p-4 text-2xl'>
+                <li className='font-Montserrat p-4 text-2xl'>
                     <Link href='/#skills'>Skills</Link>
                 </li>
-                <li className='p-4 text-2xl'>
+                <li className='font-Montserrat p-4 text-2xl'>
                     <Link href='/#projects'>Projects</Link>
                 </li>
-                <li className='p-4 text-2xl'>
+                <li className='font-Montserrat p-4 text-2xl'>
                     <Link href='/#contact'>Contact Me</Link>
                 </li>
             </ul>
