@@ -81,7 +81,6 @@ const Navbar = () => {
                 </li>
             </ul>
 
-
         </div>
         {/* <div>
             <AiOutlineMenu size={20}/>
