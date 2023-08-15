@@ -49,7 +49,6 @@ const Navbar = () => {
             </ul>
         
 
-
         {/* Mobile Button */}
         <div onClick={handleNav} className='block sm:hidden z-10'>
             {nav ? 
