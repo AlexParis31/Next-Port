@@ -18,9 +18,9 @@ const Aboutt = () => {
                         <div class="md:7/12 lg:w-5/12">
                             <p class="mt-6 font-bold text-gray-600 md:text-2xl"> </p>
 
-                            <p class="font-Gabriela mt-6 text-[#000000c6] md:text-2xl">Born and raised in beautiful Italy, I later pursued my undergraduate degree in the United States, where I honed my skills and developed a deep passion for technology. My international background has taught me how to quickly adapt to new environments, embrace different perspectives, and work effectively with individuals from various backgrounds.</p>
+                            <p class="font-Gabriela mt-6 text-[#000000c6] md:text-xl">Born and raised in beautiful Italy, I later pursued my undergraduate degree in the United States, where I honed my skills and developed a deep passion for technology. My international background has taught me how to quickly adapt to new environments, embrace different perspectives, and work effectively with individuals from various backgrounds.</p>
 
-                            <p class="font-Gabriela mt-6 text-[#000000c6] md:text-2xl">I am a collaborative team player who thrives in an environment that fosters creativity and encourages continuous growth. One of my greatest strengths is my ability to learn new technologies and concepts rapidly. </p>
+                            <p class="font-Gabriela mt-6 text-[#000000c6] md:text-xl">I am a collaborative team player who thrives in an environment that fosters creativity and encourages continuous growth. One of my greatest strengths is my ability to learn new technologies and concepts rapidly. </p>
 
                             
 
