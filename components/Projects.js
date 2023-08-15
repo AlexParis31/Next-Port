@@ -3,7 +3,7 @@ import tvshowImg from '../public/assets/projects/Screenshot 2023-05-10 at 1.44.5
 import carImg from '../public/assets/projects/Screenshot 2023-05-11 at 5.38.16 PM.png';
 import transImg from '../public/assets/projects/Screenshot 2023-05-12 at 11.09.53 AM.png';
 import ProjectItem from './ProjectItem';
-
+import workingProject from '../public/assets/projects/Screenshot 2023-08-15 at 4.58.57 PM.png';
 
 const Projects = () => {
 
@@ -49,9 +49,9 @@ const Projects = () => {
                     />
 
                     <ProjectItem
-                    title='Per(n)sonal Budgetting'
-                    backgroundImg={transImg}
-                    frameworks="MongoDb / Typescript / Angular / Node.js"
+                    title='In production...'
+                    backgroundImg={workingProject}
+                    frameworks="Typescript / Angular"
                     githubUrl=''
                     herokuUrl=''
                     tech=''
