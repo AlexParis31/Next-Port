@@ -24,14 +24,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
 
         
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-HGPW3MMGQ4"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments)}
-          gtag('js', new Date());
-
-          gtag('config', 'G-HGPW3MMGQ4');
-        </script>
         
         
         
