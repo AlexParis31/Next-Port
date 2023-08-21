@@ -34,9 +34,9 @@ export default function Home() {
       <Hero heading="Alex Parisi" message='Software Engineer'/>
       {/* <Main/> */}
 
-      <About/>
       <Skills/>
       <Projects/>
+      <About/>
       <Contact/>
       </div>
      

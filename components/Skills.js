@@ -20,7 +20,7 @@ const Skills = () => {
       <div  className='max-w-[1240px] mx-auto flex flex-col justify-center '>
 
       
-        <p className='font-heading text-center text-5xl xs:text-6xl font-bold text-gray-900 mt-40 mb-20'> MY SKILLS </p>
+        <p className='font-heading text-center text-5xl xs:text-6xl font-bold text-gray-900 mt-40 mb-20'> Skills </p>
 
         <div className='grid grid-cols-2 lg:grid-cols-4 gap-8 '>
 

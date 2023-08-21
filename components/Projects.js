@@ -14,7 +14,7 @@ const Projects = () => {
 
             <div className='max-w-[1240px] mx-auto flex flex-col justify-center  '>
 
-                <p className='font-heading text-center text-5xl xs:text-6xl font-bold text-gray-900 mt-40 '>MY PROJECTS </p>
+                <p className='font-heading text-center text-5xl xs:text-6xl font-bold text-gray-900 mt-40 '>Projects </p>
 
                 <p class="text-lg text-gray-500 text-center font-semibold mt-5 ">Here are some of the main projects I have worked on lately, but there is more in the works..  </p>
                 <p class="text-lg text-gray-500 text-center font-semibold mt-2 mb-7">Check out the rest of my work on my github account linked below </p>

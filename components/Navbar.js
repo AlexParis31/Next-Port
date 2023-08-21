@@ -17,7 +17,7 @@ const Navbar = () => {
         const changeColor = () => {
             if(window.scrollY >= 90) {
                 setColor('#e0ecfc')
-                setTextColor('#3c5838')
+                setTextColor('#000000')
             } else {
                 setColor('transparent')
                 setTextColor('#ffffff')
@@ -35,13 +35,13 @@ const Navbar = () => {
                     <Link href='/'>Home</Link>
                 </li>
                 <li className='font-Montserrat p-4 text-2xl'>
-                    <Link href='/#about'>About</Link>
-                </li>
-                <li className='font-Montserrat p-4 text-2xl'>
                     <Link href='/#skills'>Skills</Link>
                 </li>
                 <li className='font-Montserrat p-4 text-2xl'>
                     <Link href='/#projects'>Projects</Link>
+                </li>
+                <li className='font-Montserrat p-4 text-2xl'>
+                    <Link href='/#about'>About</Link>
                 </li>
                 <li className='font-Montserrat p-4 text-2xl'>
                     <Link href='/#contact'>Contact Me</Link>
